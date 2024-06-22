@@ -33,6 +33,6 @@
 
 console.log(2 + 2 * 2 !== '6');
 const isChecked = false,
-isСlose = false;
+isСlose = true;
 
 console.log(isChecked || !isСlose);
