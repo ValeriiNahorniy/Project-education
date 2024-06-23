@@ -31,8 +31,8 @@
 
 // 
 
-console.log(2 + 2 * 2 !== '6');
-const isChecked = false,
+console.log(2 + 2 * 2 === '6');
+const isChecked = true,
 isСlose = true;
 
 console.log(isChecked || !isСlose);
